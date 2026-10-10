@@ -1,0 +1,11 @@
+# Biometric data and derived files - never publish these
+Dataset/
+enrollment_photos/
+*.mat
+
+# MATLAB / OS clutter
+*.asv
+*.autosave
+slprj/
+.DS_Store
+Thumbs.db
